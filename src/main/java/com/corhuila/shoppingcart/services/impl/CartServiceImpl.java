@@ -3,7 +3,6 @@ package com.corhuila.shoppingcart.services.impl;
 import com.corhuila.shoppingcart.constant.AppConstants;
 import com.corhuila.shoppingcart.dto.CartDto;
 import com.corhuila.shoppingcart.dto.CartItemDto;
-import com.corhuila.shoppingcart.Enum.CartStatus;
 import com.corhuila.shoppingcart.entities.*;
 import com.corhuila.shoppingcart.repository.ICartRepository;
 import com.corhuila.shoppingcart.repository.ICustomerRepository;

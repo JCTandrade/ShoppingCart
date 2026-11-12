@@ -1,6 +1,6 @@
 package com.corhuila.shoppingcart.entities;
 
-import com.corhuila.shoppingcart.Enum.CartStatus;
+import com.corhuila.shoppingcart.enums.CartStatus;
 import jakarta.persistence.*;
 import lombok.*;
 

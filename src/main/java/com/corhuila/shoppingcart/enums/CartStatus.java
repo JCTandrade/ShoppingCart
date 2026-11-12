@@ -1,4 +1,4 @@
-package com.corhuila.shoppingcart.Enum;
+package com.corhuila.shoppingcart.enums;
 
 public enum CartStatus {
     ACTIVE,
